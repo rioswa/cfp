@@ -16,4 +16,8 @@ As propostas de palestras encontram-se nas issues do repositório.
 ## Quero contribuir mas não sei como
 * Vote e comente nas propostas, qualquer feedback é importante
 
+## Como uma palestra é escolhida?
+* Palestras com mais votos serão escolhidas para o próximo meetup
+
+
 [Link para os eventos da comunidade](https://www.meetup.com/pt-BR/Rio-Software-Architecture-Meetup/)
